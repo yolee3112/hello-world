@@ -22,7 +22,7 @@ code block for commands
 
 This **project** is licensed under the [Young LEE] License - see the LICENSE.md file for details
 
-#### Practices
+#### Practice
 [yggg]
 *italic*
 **bold**
