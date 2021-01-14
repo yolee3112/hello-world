@@ -19,3 +19,10 @@ code blocks for commands
 ### License
 
 This **project** is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+*italic*
+**bold**
+_italic_
+**_italic_ and bold**
+~~cancel~~
+
