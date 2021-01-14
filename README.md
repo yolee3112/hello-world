@@ -20,10 +20,10 @@ code block for commands
 
 ### License
 
-This **project** is licensed under the [NAME HERE](https://github.com/yolee3112?tab=repositories) License - see the LICENSE.md file for details
+This **project** is licensed under the [Young LEE] License - see the LICENSE.md file for details
 
 #### Practices
-
+[yggg]
 *italic*
 **bold**
 _italic_
