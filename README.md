@@ -14,11 +14,13 @@ An in-depth paragraph about your project and overview of use.
 - How/where to download your program
 - Any modification needed to be made to file/folders
 
-code blocks for commands
+```
+code block for commands
+```
 
 ### License
 
-This **project** is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This **project** is licensed under the [NAME HERE](https://github.com/yolee3112?tab=repositories) License - see the LICENSE.md file for details
 
 #### Practices
 
@@ -27,5 +29,4 @@ This **project** is licensed under the [NAME HERE] License - see the LICENSE.md 
 _italic_
 **_italic_ and bold**
 ~~cancel~~
-
 hyperlink [Node.js](https://nodejs.org/)
