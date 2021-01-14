@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 - Any modification needed to be made to file/folders
 
 ```
-code block for commands
+code blocks for commands
 ```
 
 ### License
